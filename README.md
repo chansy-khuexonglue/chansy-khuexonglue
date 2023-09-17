@@ -1,14 +1,27 @@
 **About me**
 
-Hi! I'm Alice, a software engineer at Google. I'm passionate about building user-friendly and accessible web applications. I love using GitHub to collaborate with other developers and share my work.
+Hi! I'm Chansy, a software developer. I'm passionate about building user-friendly, accessible web and mobile applications. I love using GitHub to collaborate with other developers and share my work.
 
-**Skills**
-
-* Web development
-* User experience design
-* Accessibility
+**Skills and Tools**
 * JavaScript
 * Python
+* Dart
+* Typescript
+* C#
+* Java
+* Vue
+* Nuxt
+* Next
+* React
+* Flutter
+* NodeJs
+* Express
+* Google Could
+* AWS
+* Vercel
+* Netlifly
+* Heroku
+* Docker
 
 **Projects**
 

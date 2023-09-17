@@ -18,8 +18,7 @@ Hi! I'm Alice, a software engineer at Google. I'm passionate about building user
 
 **Contact**
 
-* alice.smith@google.com
-* @alice_smith
+* www.ainythor@gmail.com
 
 **Additional information**
 
